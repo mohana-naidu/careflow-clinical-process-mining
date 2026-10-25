@@ -1,0 +1,8 @@
+Activity_Name,Next_Activity,Transition_Count,Average_Minutes,Maximum_Minutes
+Doctor,Treatment,20,28.4,45.0
+X-Ray,Doctor,5,25.8,43.0
+Triage,Doctor,15,25.47,45.0
+X-Ray,Triage,10,24.6,43.0
+Triage,X-Ray,15,24.33,45.0
+Treatment,Discharge,20,22.7,43.0
+Registration,Triage,20,20.0,45.0
